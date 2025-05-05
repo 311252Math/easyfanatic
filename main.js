@@ -25,8 +25,8 @@
 // @grant         GM.addStyle
 // @grant         GM_addStyle
 // @run-at        document-end
-// @updateURL     https://github.com/311252Math/easyfanatic/refs/heads/main/main.js
-// @downloadURL   https://github.com/311252Math/easyfanatic/refs/heads/main/main.js
+// @updateURL     https://github.com/311252Math/easyfanatic/raw/blob/main/main.js
+// @downloadURL   https://github.com/311252Math/easyfanatic/raw/blob/main/main.js
 // ==/UserScript==
 
 let flagSummaryTable, flagSummaryTableBody, errorView;
