@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          EasyFanatic
 // @version       1.0.0
-// @description   A script which automatically visits the flag-summary pages of all your accounts every day, giving you the Enthusiast and Fanatic badges on all sites.
+// @description   A script which automatically visits the flag-summary pages of all your accounts every 12 hours, giving you the Enthusiast and Fanatic badges on all sites.
 // @author        Starship
 // @attribution   Floern (https://github.com/Floern)
 // @include       *://stackexchange.com/users/*/*
@@ -25,8 +25,8 @@
 // @grant         GM.addStyle
 // @grant         GM_addStyle
 // @run-at        document-end
-// @updateURL     https://gist.github.com/311252Math/3fee32a57f3ddcafbd261f5cfd980033/raw/easyfanatic.js
-// @downloadURL   https://gist.github.com/311252Math/3fee32a57f3ddcafbd261f5cfd980033/raw/easyfanatic.js
+// @updateURL     https://raw.githubusercontent.com/311252Math/easyfanatic/refs/heads/main/main.js
+// @downloadURL   https://raw.githubusercontent.com/311252Math/easyfanatic/refs/heads/main/main.js
 // ==/UserScript==
 
 let flagSummaryTable, flagSummaryTableBody, errorView;
